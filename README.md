@@ -30,7 +30,7 @@ Our solution employs advanced Edge AI cameras integrated with YOLOv10 for vehicl
 - Python: For model implementation and system integration.
 
 - Pretrained models used - 
-  YOLOv10 Model (coco_model): A pretrained model for general object detection trained on the COCO dataset. The model identifies various objects in images or video frames efficiently.
-  License Plate Detector (license_plate_detector): Specifically designed to locate and recognize license plates.This model used in Automatic License Plate Recognition (ALPR) systems for accurate plate identification.
-  SORT Tracker (mot_tracker): An algorithm for real-time multi-object tracking. It ssigns unique IDs to objects across frames, enabling continuous tracking in video sequences.
+  --YOLOv10 Model (coco_model): A pretrained model for general object detection trained on the COCO dataset. The model identifies various objects in images or video frames efficiently.
+  --License Plate Detector (license_plate_detector): Specifically designed to locate and recognize license plates.This model used in Automatic License Plate Recognition (ALPR) systems for accurate plate identification.
+  --SORT Tracker (mot_tracker): An algorithm for real-time multi-object tracking. It ssigns unique IDs to objects across frames, enabling continuous tracking in video sequences.
 
