@@ -2,6 +2,10 @@
 
 Team Name - NeuralNet Wizards
 
+# Automated Vehicle Movement Analysis and Insight Generation using Edge AI
+
+yeh chalega..
+
 # Problem Statement
 PS13 - “Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI”.
 As college campuses grow in size and population, managing vehicle movement becomes increasingly challenging. Traditional manual methods of monitoring vehicles are inefficient and prone to errors. There is a pressing need for an automated solution to track, count, and analyze vehicle movement, ensuring effective management of parking spaces and improving overall campus security.
@@ -27,11 +31,8 @@ Our solution employs advanced Edge AI cameras integrated with YOLOv10 for vehicl
 - OpenCV Python: For image processing and parking space counting.
 - Python: For model implementation and system integration.
 
-  Pretrained models used - 
-- YOLOv10 Model (coco_model):
-A pretrained model for general object detection trained on the COCO dataset. The model identifies various objects in images or video frames efficiently.
-- License Plate Detector (license_plate_detector):
-Specifically designed to locate and recognize license plates.This model used in Automatic License Plate Recognition (ALPR) systems for accurate plate identification.
-- SORT Tracker (mot_tracker):
-An algorithm for real-time multi-object tracking. It ssigns unique IDs to objects across frames, enabling continuous tracking in video sequences.
+- Pretrained models used - 
+  YOLOv10 Model (coco_model): A pretrained model for general object detection trained on the COCO dataset. The model identifies various objects in images or video frames efficiently.
+  License Plate Detector (license_plate_detector): Specifically designed to locate and recognize license plates.This model used in Automatic License Plate Recognition (ALPR) systems for accurate plate identification.
+  SORT Tracker (mot_tracker): An algorithm for real-time multi-object tracking. It ssigns unique IDs to objects across frames, enabling continuous tracking in video sequences.
 
