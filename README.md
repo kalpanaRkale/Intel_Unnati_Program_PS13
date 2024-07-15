@@ -19,8 +19,8 @@ Our solution employs advanced Edge AI cameras integrated with YOLOv10 for vehicl
 
 # Technologies Used
 
-YOLOv10: For real-time vehicle detection.
-EasyOCR: For number plate recognition.
-Edge AI Cameras: For on-device image capture and processing.
-OpenCV Python: For image processing and parking space counting.
-Python: For model implementation and system integration.
+- YOLOv10: For real-time vehicle detection.
+- EasyOCR: For number plate recognition.
+- Edge AI Cameras: For on-device image capture and processing.
+- OpenCV Python: For image processing and parking space counting.
+- Python: For model implementation and system integration.
