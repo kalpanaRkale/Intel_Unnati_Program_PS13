@@ -21,7 +21,7 @@ ret = True
 while ret:
     frame_no +=1
     ret, frame = vd.read()
-    if ret and frame_no < 10:
+    if ret:
         results[frame_no] = {}
         # detect vehicles
         detections = coco_model(frame)[0]
