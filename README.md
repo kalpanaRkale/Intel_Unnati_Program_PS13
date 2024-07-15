@@ -1,5 +1,7 @@
 # Intel_Unnati_Program_PS13
 
+Team Name - NeuralNet Wizards
+
 # Problem Statement
 PS13 - “Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI”.
 As college campuses grow in size and population, managing vehicle movement becomes increasingly challenging. Traditional manual methods of monitoring vehicles are inefficient and prone to errors. There is a pressing need for an automated solution to track, count, and analyze vehicle movement, ensuring effective management of parking spaces and improving overall campus security.
