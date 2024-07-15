@@ -2,7 +2,7 @@
 
 Team Name - NeuralNet Wizards
 
-## Automated Vehicle Movement Analysis and Insight Generation using Edge AI
+### Automated Vehicle Movement Analysis and Insight Generation using Edge AI
 Presentation Link - [NeuralNet Wizards](https://docs.google.com/presentation/d/1U5qLodVvjszi3dcgYmJFhIHyV9pckvSN1xHUB0BGiio/edit?usp=sharing)
 
 # Problem Statement
